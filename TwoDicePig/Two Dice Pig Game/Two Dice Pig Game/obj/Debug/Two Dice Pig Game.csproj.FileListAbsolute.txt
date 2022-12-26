@@ -1,0 +1,13 @@
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\bin\Debug\Two Dice Pig Game.exe.config
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\bin\Debug\Two Dice Pig Game.exe
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\bin\Debug\Two Dice Pig Game.pdb
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two Dice Pig Game.csproj.AssemblyReference.cache
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two Dice Pig Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two_Dice_Pig_Game.frmTwoDicePig.resources
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two_Dice_Pig_Game.Properties.Resources.resources
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two Dice Pig Game.csproj.GenerateResource.cache
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two Dice Pig Game.csproj.CoreCompileInputs.cache
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two Dice Pig Game.exe
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two Dice Pig Game.pdb
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two_Dice_Pig_Game.frmGameMenu.resources
+C:\Users\aryas\OneDrive\ICS4U\TwoDicePig\Two Dice Pig Game\Two Dice Pig Game\obj\Debug\Two_Dice_Pig_Game.frmRules.resources
